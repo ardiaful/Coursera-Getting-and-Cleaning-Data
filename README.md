@@ -1,4 +1,3 @@
-
 ##How Does the Script Works?
 The run_analysis.R file works as follows: 
 1. Downloads the dataset .
